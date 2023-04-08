@@ -6,13 +6,13 @@ about:
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com
+      href: https://twitter.com/sadneurons
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://uk.linkedin.com/in/ross-dunne-gmdrc
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/sadneurons
 
 ---
 
