@@ -5,8 +5,8 @@ about:
   template: jolla
   links:
     - icon: twitter
-      text: Twitter
-      href: https://twitter.com/sadneurons
+      text: Fosstodon
+      href: https://fosstodon.org/@sadneurons
     - icon: linkedin
       text: LinkedIn
       href: https://uk.linkedin.com/in/ross-dunne-gmdrc
