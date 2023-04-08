@@ -16,4 +16,4 @@ about:
 
 ---
 
-About this blog
+First attempt at a Quarto blog, detailing escapades in coding in R, Python, JS and C++
